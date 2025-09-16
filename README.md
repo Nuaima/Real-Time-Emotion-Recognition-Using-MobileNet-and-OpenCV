@@ -27,7 +27,7 @@ This project implements a **real-time facial emotion recognition system** using 
 
 ---
 
-##📦 Dependencies
+## 📦 Dependencies
 numpy
 pandas
 matplotlib
