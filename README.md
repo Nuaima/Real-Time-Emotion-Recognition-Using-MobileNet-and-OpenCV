@@ -26,12 +26,18 @@ This project implements a **real-time facial emotion recognition system** using 
 
 ---
 
-## 📦 Dependencies
-numpy
-pandas
-matplotlib
-tensorflow
-keras
-opencv-python
+### 🛠️ Technologies Used
+- **Programming Language:** Python 3  
+- **Libraries & Frameworks:**
+  - **TensorFlow / Keras** → Training and fine-tuning the MobileNet model  
+  - **MobileNet** → Lightweight CNN architecture for real-time emotion classification  
+  - **OpenCV** → Capturing video frames and face detection  
+  - **NumPy** → Numerical computations and data preprocessing  
+  - **Matplotlib / Seaborn** → Visualization of training performance and results  
+- **Tools:**
+  - Google Colab / Jupyter Notebook for model training and testing  
+  - Webcam for real-time emotion detection  
+  - GitHub for version control and project hosting  
+
 
 ---
