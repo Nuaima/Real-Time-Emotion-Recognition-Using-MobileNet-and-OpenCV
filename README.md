@@ -17,7 +17,6 @@ This project implements a **real-time facial emotion recognition system** using 
 ## 📂 Repository Structure
 📦 Emotion-Recognition-MobileNet
 ├── 📄 emotion_recognition.ipynb # Jupyter/Colab notebook with training + evaluation
-├── 📄 best_model.h5 # Saved best trained model
 ├── 📄 README.md # Documentation
 ├── 📁 dataset/ # Training and testing dataset (images by class)
 │ ├── train/ # Training set
